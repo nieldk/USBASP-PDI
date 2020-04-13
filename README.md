@@ -22,11 +22,11 @@ In order to use a cheap Chinese USBASP as a PDI programmer, a few modifications 
 
 The device is now ready to use, but, in order to utilize the new PDI interface, you need to create a cable, as per this image.
 
-![usbasp-pdi](/images/usbasp_pdi.png)
+![USBASP-PDI](/images/usbasp_pdi.png)
 
 Here is my final result
 
-![usbasp-pdi](/images/final.png)
+![USBASP-PDI](/images/final.png)
 
 Note on drivers
 On Linux and MacOS X no kernel driver is needed. Windows requires a driver for USBasp. Please use Zadiag tool to install this driver on Windows: http://zadig.akeo.ie/
