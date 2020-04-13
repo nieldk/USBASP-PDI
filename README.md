@@ -21,7 +21,7 @@ In order to use a cheap Chinese USBASP as a PDI programmer, a few modifications 
    $ avrdude -c usbasp -p atmega8 -U flash:w:main.hex
 
 The device is now ready to use, but, in order to utilize the new PDI interface, you need to create a cable, as per this image.
-
+```
 ![USBASP-PDI](/images/usbasp_pdi.png)
 
 Here is my final result
