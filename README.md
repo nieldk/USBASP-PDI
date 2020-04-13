@@ -9,7 +9,7 @@ In order to use a cheap Chinese USBASP as a PDI programmer, a few modifications 
    $ git clone https://github.com/nieldk/USBASP-PDI
 
 2. Change to usb source directory
-   $ cd usbasp.2011-05-28/firmware
+   $ cd USBASP-PDI/firmware
    
 3. Patch sourcesfile: http://sz.toyspring.com/usbasp-pdi-usbaspfirmware-20120816.diff
    $ patch usbasp-pdi-usbaspfirmware-20120816.diff
