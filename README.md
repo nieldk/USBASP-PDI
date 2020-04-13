@@ -26,7 +26,7 @@ The device is now ready to use, but, in order to utilize the new PDI interface, 
 
 Here is my final result
 
-![USBASP-PDI](/images/final.png)
+![USBASP-PDI](/images/final.jpeg)
 
 Note on drivers
 On Linux and MacOS X no kernel driver is needed. Windows requires a driver for USBasp. Please use Zadiag tool to install this driver on Windows: http://zadig.akeo.ie/
